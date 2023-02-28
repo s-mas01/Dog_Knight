@@ -31,9 +31,9 @@ windows intel 64-bit
 
 # Usage
 ![DL1](https://user-images.githubusercontent.com/125266372/221795491-47046d01-17a9-494f-bdb0-930642e15994.png)
-1.<>CodeのプルダウンよりDownload ZIPを選択しファイルをダウンロードする。  
-2.ZIPを解凍する。  
-3.ファイル内の"DogKnight.exe"をダブルクリックしてアプリを起動する。  
+1. <>CodeのプルダウンよりDownload ZIPを選択しファイルをダウンロードする。  
+2. ZIPを解凍する。  
+3. ファイル内の"DogKnight.exe"をダブルクリックしてアプリを起動する。  
 
 # Note
 RPGにある程度必要そうな要素は盛り込んだがまだ設定画面やアイテムの実装が出来ていない。  
