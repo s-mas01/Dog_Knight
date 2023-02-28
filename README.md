@@ -14,8 +14,14 @@
  ![GameScrean](https://user-images.githubusercontent.com/125266372/221792477-119689fe-fb31-4ff5-80ea-11ce2032942a.png)
  
 # Features
- 
-"hoge"のセールスポイントや差別化などを説明する
+
+・Asset選び
+・曲選び
+・SE選び
+・コード製作
+・デバック
+
+全て私自身が選別・製作しました。
  
 # Requirement
  
