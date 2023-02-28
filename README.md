@@ -15,11 +15,11 @@
  
 # Features
 
-・Asset選び
-・曲選び
-・SE選び
-・コード製作
-・デバック
+・Asset選び  
+・曲選び  
+・SE選び  
+・コード製作  
+・デバック  
 
 全て私自身が選別・製作しました。
 
@@ -32,7 +32,7 @@ windows intel 64-bit
 # Usage
 ![DL1](https://user-images.githubusercontent.com/125266372/221795491-47046d01-17a9-494f-bdb0-930642e15994.png)
 1.<>CodeのプルダウンよりDownload ZIPを選択しファイルをダウンロードする。  
-2.ZIPを解凍する。  　　
+2.ZIPを解凍する。  
 3.ファイル内の"DogKnight.exe"をダブルクリックしてアプリを起動する。  
 
 # Note
