@@ -25,8 +25,7 @@
 # ソースコードの場所  
 Assets　-> Scripts  
 その中のファイリングされてれている物です。
- * Enemy
-　　1.  
+ * Enemy  
  * Game System  
  * Player
  
