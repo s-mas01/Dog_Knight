@@ -25,7 +25,11 @@
 # ソースコードの場所  
 Assets　-> Scripts  
 その中のファイリングされてれている物です。
- * p
+ * Enemy  
+ * Game System  
+ * Player
+  
+
 
 
 製作：Unity 2021.3.16f1
