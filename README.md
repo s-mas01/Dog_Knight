@@ -7,10 +7,10 @@
 * How To
 ![HowTo](https://user-images.githubusercontent.com/125266372/221791835-51305016-e08c-4237-b127-03da4869e8c8.png)
  
- *Object
+ * Object
 ![Object](https://user-images.githubusercontent.com/125266372/221792200-af4ddf35-aede-4425-bbdc-238e29fa4bb5.png)
 
- *Game Screan
+ * Game Screan
  ![GameScrean](https://user-images.githubusercontent.com/125266372/221792477-119689fe-fb31-4ff5-80ea-11ce2032942a.png)
  
 # Features
@@ -25,6 +25,8 @@
 # ソースコードの場所  
 Assets　-> Scripts  
 その中のファイリングされてれている物です。
+ * p
+
 
 製作：Unity 2021.3.16f1
  
